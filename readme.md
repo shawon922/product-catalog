@@ -62,8 +62,8 @@ Now your project run under `8000` port [http://localhost:8000](http://localhost:
 
 > Remember this: every time you have to run this server at `8000` port. Because our social login activate under this port 
 
-Okay, now open this project in your browser and I think it will working fine. To login this project click login and now click 'facebook' icon and then it will automatically login. In this open source version I was integrate only facebook login.
 
-After login this there are a single problem. You can not access Admin area. Okay its not a big deal. go to your database and click `users` table edit your user and and change user `role` to `admin` and save it.
-Now logout your account from this project and re-login. 
+After login as an admin you can access Admin area and you can add, edit, delete and view all products. You also can add and edit other users of different roles. 
+
+After login as a Normal user you can only view the products.
 
