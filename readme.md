@@ -60,8 +60,6 @@ $ php artisan serve
 
 Now your project run under `8000` port [http://localhost:8000](http://localhost:8000).
 
-> Remember this: every time you have to run this server at `8000` port. Because our social login activate under this port 
-
 
 After login as an admin you can access Admin area and you can add, edit, delete and view all products. You also can add and edit other users of different roles. 
 
